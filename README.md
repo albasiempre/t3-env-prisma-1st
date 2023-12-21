@@ -1,3 +1,33 @@
+# ここにタイトルを入れる
+
+## DEMO
+
+  - デプロイしている場合はURLを記入（任意）
+
+## 紹介と使い方
+
+  - T3環境でのブログ
+
+  - next.js, prisma, Typescriptを利用したセキュアなアプリ（CRUD機能）
+
+## 工夫した点
+
+  - UIでTailwindを使用していった
+  - TRPC環境で構築をしてみた
+
+
+## 苦戦した点
+
+  - Procedureの理解がまだ完全ではないので、独自でスラスラ書けるようになりたい。
+  - CRUDの操作を通して、mutation、queryの概要は理解できたが、マスターしきっていないので、要復習
+    
+## 参考にした web サイトなど
+
+
+  - https://zenn.dev/mikinovation/articles/20220911-t3-stack
+  - https://qiita.com/y-hira18/items/293c7c8e8d03f0144024
+
+
 # Create T3 App
 
 This is a [T3 Stack](https://create.t3.gg/) project bootstrapped with `create-t3-app`.
